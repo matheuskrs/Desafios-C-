@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FDEVS.Desafio\\Exercicios\\Ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FDEVS.Desafio\\Exercicios\\Ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FDEVS.Desafio\\Exercicios\\Ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FDEVS.Desafio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\FDEVS.Desafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FDEVS.Desafio\\FDEVS.Desafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex3.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex3.cs",
+              "RelativeDocumentMoniker": "FDEVS.Desafio\\Exercicios\\Ex3.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex3.cs",
+              "RelativeToolTip": "FDEVS.Desafio\\Exercicios\\Ex3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:03:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex2.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex2.cs",
+              "RelativeDocumentMoniker": "FDEVS.Desafio\\Exercicios\\Ex2.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex2.cs",
+              "RelativeToolTip": "FDEVS.Desafio\\Exercicios\\Ex2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:03:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex1.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex1.cs",
+              "RelativeDocumentMoniker": "FDEVS.Desafio\\Exercicios\\Ex1.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Exercicios\\Ex1.cs",
+              "RelativeToolTip": "FDEVS.Desafio\\Exercicios\\Ex1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:03:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Program.cs",
+              "RelativeDocumentMoniker": "FDEVS.Desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\Program.cs",
+              "RelativeToolTip": "FDEVS.Desafio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:03:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FDEVS.Desafio.csproj",
+              "DocumentMoniker": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\FDEVS.Desafio.csproj",
+              "RelativeDocumentMoniker": "FDEVS.Desafio\\FDEVS.Desafio.csproj",
+              "ToolTip": "C:\\Users\\T-GAMER\\source\\repos\\Desafios-C-\\FDEVS.Desafio\\FDEVS.Desafio.csproj",
+              "RelativeToolTip": "FDEVS.Desafio\\FDEVS.Desafio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T01:02:59.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
